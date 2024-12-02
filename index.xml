@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>merry-christmas-1</repo>
-  <version>v1.0.2</version>
+  <version>v1.0.3</version>
   <next number="1" owner="stolbitsa" repo="wellerman"/>
   <readme>
     <ru>ce2fb474ab151b03f6846f50f1d254fa3dd85db5556cd8fe0988f22969be7357</ru>
@@ -33,14 +33,14 @@
     <tonalities>8</tonalities>
     <video name="20-merry-christmas-2.mp4" size="1510545" type="video/mp4" volume="1">958aacca55697a0f1d1cd0ea64e3e0a40a54b5f9be0deb813e89f451cc27c326</video>
     <notes>
-      <note number="1" values="6" ticks="60" durationTicks="86" ppq="96" velocity="0.843"/>
-      <note number="2" values="28" ticks="155" durationTicks="92" ppq="96" velocity="0.739"/>
-      <note number="3" values="28" ticks="252" durationTicks="59" ppq="96" velocity="0.719"/>
-      <note number="4" values="38" ticks="318" durationTicks="27" ppq="96" velocity="0.737"/>
-      <note number="5" values="28" ticks="350" durationTicks="57" ppq="96" velocity="0.719"/>
-      <note number="6" values="18" ticks="412" durationTicks="33" ppq="96" velocity="0.719"/>
-      <note number="7" values="7" ticks="446" durationTicks="95" ppq="96" velocity="0.719"/>
-      <note number="8" values="5" ticks="540" durationTicks="95" ppq="96" velocity="0.719"/>
+      <note number="1" values="6" ticks="46" durationTicks="86" ppq="96" velocity="0.843"/>
+      <note number="2" values="28" ticks="141" durationTicks="92" ppq="96" velocity="0.739"/>
+      <note number="3" values="28" ticks="238" durationTicks="59" ppq="96" velocity="0.719"/>
+      <note number="4" values="38" ticks="304" durationTicks="27" ppq="96" velocity="0.737"/>
+      <note number="5" values="28" ticks="336" durationTicks="57" ppq="96" velocity="0.719"/>
+      <note number="6" values="18" ticks="398" durationTicks="33" ppq="96" velocity="0.719"/>
+      <note number="7" values="7" ticks="432" durationTicks="95" ppq="96" velocity="0.719"/>
+      <note number="8" values="5" ticks="526" durationTicks="95" ppq="96" velocity="0.719"/>
     </notes>
   </exercise>
   <exercise number="3">
