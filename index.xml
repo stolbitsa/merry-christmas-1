@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>merry-christmas-1</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="stolbitsa" repo="wellerman"/>
   <readme>
-    <ru>ce2fb474ab151b03f6846f50f1d254fa3dd85db5556cd8fe0988f22969be7357</ru>
-    <en>cadbe60a3c9f9f77432fc93c5efbe03d44c10e396f27cf744b505750241d03f5</en>
+    <ru>a52c9af87978d66a4cc82cf0e20316f3f3a6bfaa01365bb85c337ca0d12bfaa6</ru>
+    <en>ea11215d973b7a750c679d650cb2604c86091e43d8a542820540a6e9e14fad3c</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
